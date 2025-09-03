@@ -5,6 +5,7 @@ Todas las modificaciones notables en este proyecto serán documentadas en este a
 ## [No Publicado] (Unreleased)
 
 ### Added
+
 - Creación inicial del repositorio MiPrimerDevOps.
 - Configuración de ramas `main` y `feature/docs`.
 - Agregados README.md, CONTRIBUTING.md y LICENSE.md.
